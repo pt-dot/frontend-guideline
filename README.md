@@ -33,3 +33,6 @@ Frontend Guideline
 - Meta data properness (google preview, facebook preview, messenger app preview)
 - Shortcut icon yang baik (android, ios)
 CDN untuk asset
+
+## Standard Code
+[Standard Code](https://github.com/pt-dot/frontend-guideline/StandardCode.md)
