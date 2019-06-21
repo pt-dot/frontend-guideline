@@ -35,4 +35,4 @@ Frontend Guideline
 CDN untuk asset
 
 ## Standard Code
-[Standard Code](https://github.com/pt-dot/frontend-guideline/StandardCode.md)
+[Standard Code](https://github.com/pt-dot/frontend-guideline/blob/master/StandardCode.md)
